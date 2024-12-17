@@ -1,9 +1,14 @@
-## Hi there! I'm Caio Casemiro! 👋
+# Hi there! I'm Caio Casemiro! 👋
+
+#### Social media:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiocasemiro__?igsh=N2RxaXk3cGNydWRx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](casemirocaio2@gmail.com)
 
+#### INFO:
+
 ![Caio Casemiro GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCasemiro&show_icons=true&theme=tokyonight)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCasemiro&layout=compact)
 
 ## Technology used:
